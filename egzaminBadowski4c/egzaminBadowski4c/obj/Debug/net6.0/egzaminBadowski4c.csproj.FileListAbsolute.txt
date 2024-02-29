@@ -1,0 +1,15 @@
+C:\Users\BHada\source\repos\egzaminBadowski4c\egzaminBadowski4c\bin\Debug\net6.0\egzaminBadowski4c.exe
+C:\Users\BHada\source\repos\egzaminBadowski4c\egzaminBadowski4c\bin\Debug\net6.0\egzaminBadowski4c.deps.json
+C:\Users\BHada\source\repos\egzaminBadowski4c\egzaminBadowski4c\bin\Debug\net6.0\egzaminBadowski4c.runtimeconfig.json
+C:\Users\BHada\source\repos\egzaminBadowski4c\egzaminBadowski4c\bin\Debug\net6.0\egzaminBadowski4c.dll
+C:\Users\BHada\source\repos\egzaminBadowski4c\egzaminBadowski4c\bin\Debug\net6.0\egzaminBadowski4c.pdb
+C:\Users\BHada\source\repos\egzaminBadowski4c\egzaminBadowski4c\obj\Debug\net6.0\egzaminBadowski4c.csproj.AssemblyReference.cache
+C:\Users\BHada\source\repos\egzaminBadowski4c\egzaminBadowski4c\obj\Debug\net6.0\egzaminBadowski4c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BHada\source\repos\egzaminBadowski4c\egzaminBadowski4c\obj\Debug\net6.0\egzaminBadowski4c.AssemblyInfoInputs.cache
+C:\Users\BHada\source\repos\egzaminBadowski4c\egzaminBadowski4c\obj\Debug\net6.0\egzaminBadowski4c.AssemblyInfo.cs
+C:\Users\BHada\source\repos\egzaminBadowski4c\egzaminBadowski4c\obj\Debug\net6.0\egzaminBadowski4c.csproj.CoreCompileInputs.cache
+C:\Users\BHada\source\repos\egzaminBadowski4c\egzaminBadowski4c\obj\Debug\net6.0\egzaminBadowski4c.dll
+C:\Users\BHada\source\repos\egzaminBadowski4c\egzaminBadowski4c\obj\Debug\net6.0\refint\egzaminBadowski4c.dll
+C:\Users\BHada\source\repos\egzaminBadowski4c\egzaminBadowski4c\obj\Debug\net6.0\egzaminBadowski4c.pdb
+C:\Users\BHada\source\repos\egzaminBadowski4c\egzaminBadowski4c\obj\Debug\net6.0\egzaminBadowski4c.genruntimeconfig.cache
+C:\Users\BHada\source\repos\egzaminBadowski4c\egzaminBadowski4c\obj\Debug\net6.0\ref\egzaminBadowski4c.dll
